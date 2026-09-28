@@ -1,6 +1,6 @@
 Package: com.fembabe.vcam.v59test
 Name: FemBabe VCam v59 Comparison
-Version: 0.0.2-59.2
+Version: 0.0.2-59.3
 Architecture: iphoneos-arm64
 Description: Isolated iOS 18 v59 comparison build for FemBabe server
 Maintainer: UFATM.COM
@@ -10,8 +10,8 @@ Depends: ellekit
 Conflicts: com.x.obsvcamera.clone, com.ufatm.app.plus, com.fembabe.vcam, com.ufatm.app
 Replaces: com.x.obsvcamera.clone
 Installed-Size: 2196
-Filename: debs/fembabe-v59-comparison_0.0.2-59.2_iphoneos-arm64.deb
-Size: 765450
-MD5sum: 91ef2133905ee60f01d9498203e11883
-SHA1: c4a38acd24ecbc20f3868d19f45b8632693db5e0
-SHA256: 025a8170b4b60c1de7becddd9d79d5803094eeaf86d129bd374279c81421b067
+Filename: debs/fembabe-v59-comparison_0.0.2-59.3_iphoneos-arm64.deb
+Size: 765560
+MD5sum: f9b3ed385f63532aeab630f11c230408
+SHA1: 5bc04c035ea80a1b0e2a923a5aae7b304959c8d2
+SHA256: 7018d2b2797c90b8e39db3ed9e75116a5d468a7eb0b1db1b860d64cd6945c664
