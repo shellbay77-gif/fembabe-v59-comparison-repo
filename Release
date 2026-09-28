@@ -1,0 +1,8 @@
+Origin: FemBabe v59 Comparison
+Label: FemBabe v59 Comparison
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64e
+Components: main
+Description: Isolated iOS 18 comparison repository
